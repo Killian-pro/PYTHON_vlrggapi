@@ -15,11 +15,13 @@ Built by [CLUZEL Killian](https://github.com/Killian-pro)
           "status": 200,
           'segments': [
               {
-                  'title': str,
-                  'description': str,
-                  'date': str,
-                  'author': str,
-                  'url_path': str
+                  'name': str,
+                  'short_name': str,
+                  'logo': img,
+                  'country': str,
+                  'id': id,
+                  'roster' : [],
+                  'matches' : []
               }
           ],
       }
