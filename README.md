@@ -7,7 +7,6 @@ Built by [CLUZEL Killian](https://github.com/Killian-pro)
 ### `/team/9133`
 
 - Method: `GET`
-- Cached Time: 300 seconds (5 Minutes)
 - Response:
   ```python
   {
